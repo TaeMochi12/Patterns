@@ -9,4 +9,6 @@
 * no/numeric: numbers are used
 * counting: consecutive flow of numbers
 * binary: 0-1 patterns
-* blnk: use of space for pattern instead of any character 
+* blnk: use of space for pattern instead of any character
+* mir:mirror
+* sq:square
